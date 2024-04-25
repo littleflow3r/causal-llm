@@ -1,2 +1,2 @@
-#### Dataset and code for the paper: Prompt-based vs. Fine-tuned LLMs Toward Causal Graph Verification.
+#### Prompt-based vs. Fine-tuned LLMs for Causal Graph Verification.
 (readme to be added)
