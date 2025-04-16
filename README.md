@@ -1,2 +1,2 @@
-#### Prompt-based vs. Fine-tuned LLMs for Causal Graph Verification.
+#### Prompting or Fine-tuning? Exploring Large Language Models for Causal Graph Validation
 (readme to be added)
